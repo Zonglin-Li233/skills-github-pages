@@ -1,0 +1,6 @@
+theme: minima
+title: GitHub Pages Learning Notebook
+description: A practice site for publishing Markdown and tracking changes with Git.
+author: Zonglin Li
+url: "https://zonglin-li233.github.io"
+baseurl: "/skills-github-pages"
